@@ -8,11 +8,12 @@ I'm currently a third-year student at the **University of Toronto**, majoring in
   - **University of Toronto**
   - Major: Robotics
   - Minors: Artificial Intelligence, Engineering Leadership
-  - Expected Graduation: [Month, Year]
+  - Expected Graduation: [May, 2027]
 
 ## 🤖 Area of Interest
-- Autonomous Systems
+- Intelligent Automation
 - Machine Learning Applications in Robotics
+   - fdfd
 - Human-Robot Interaction
 
 ## 🌱 I’m Currently Learning
