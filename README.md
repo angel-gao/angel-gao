@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there this is Angel (Anqi) Gao :D
 
 <!--
 **angel-gao/angel-gao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
