@@ -1,7 +1,7 @@
 # Hello, I'm Angel (Anqi) Gao 👋 :) 
 
 ## About Me
-I'm currently a third-year student at the **University of Toronto**, majoring in **Robotics** and minoring in **Artificial Intelligence** and **Engineering Leadership**. I am passionate about integrating innovative AI solutions with advanced robotic systems to address real-world challenges. 
+I'm currently a third-year student at the **University of Toronto**, majoring in **Engineering Science -- Robotics** and minoring in **Artificial Intelligence** and **Engineering Leadership**. I am passionate about integrating innovative AI solutions with advanced robotic systems to address real-world challenges!
 
 ## 🎓 Education
 - **BSc in Robotics**
