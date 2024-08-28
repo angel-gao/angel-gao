@@ -50,15 +50,17 @@ I'm actively seeking co-op positions where I can contribute and further develop 
 ![RISC-V](https://img.shields.io/badge/-RISC--V-333?style=flat&logo=riscv)
 
 ### Frameworks & Libraries
+![ROS](https://img.shields.io/badge/-ROS-333?style=flat&logo=ros)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
 ![SciPy](https://img.shields.io/badge/-SciPy-333?style=flat&logo=scipy)
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib)
 ![Hugging_Face](https://img.shields.io/badge/-Hugging%20Face-333?style=flat&logo=huggingface)
 ![scikit_learn](https://img.shields.io/badge/-scikit_learn-333?style=flat&logo=scikit-learn)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
-![ROS](https://img.shields.io/badge/-ROS-333?style=flat&logo=ros)
+
+
 
 ### CAD & Design
 ![Fusion360](https://img.shields.io/badge/-Fusion360-333?style=flat&logo=autodesk)
