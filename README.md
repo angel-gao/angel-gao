@@ -4,10 +4,8 @@
 I'm currently a third-year student at the **University of Toronto**, majoring in **Engineering Science -- Robotics** and minoring in **Artificial Intelligence** and **Engineering Leadership**. I am passionate about integrating innovative AI solutions with advanced robotic systems to address real-world challenges!
 
 ## 🎓 Education
-- **BSc in Robotics**
+- **BSc in Engineering Science - Robotics**
   - **University of Toronto**
-  - Major: Robotics
-  - Minors: Artificial Intelligence, Engineering Leadership
   - Expected Graduation: [May, 2027]
 
 ## 🤖 Area of Interest
