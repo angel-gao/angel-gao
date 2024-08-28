@@ -11,11 +11,13 @@ I'm currently a third-year student at the **University of Toronto**, majoring in
   - Expected Graduation: [May, 2027]
 
 ## 🤖 Area of Interest
+- Cutting-edge Machine Learning Research Fields
 - Intelligent Automation
 - Machine Learning Applications in Robotics
    - Reinforcement learning for robot decision-making in a dynamic environment 
-   - Supervised learning for computer vision in robot perception 
-- Human-Robot Interaction
+   - Supervised learning for computer vision in robot perception
+ 
+
 
 ## 🌱 I’m Currently Learning
 - **AER372 & AER301** - Control Systems & Dynamics
