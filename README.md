@@ -25,13 +25,15 @@ I'm currently a third-year student at the **University of Toronto**, majoring in
 
 ## 🚀 Co-op Opportunities
 I'm actively seeking co-op positions where I can contribute and further develop my skills in the following areas:
-- **Robotics Engineering**: Design and development of autonomous robotic systems.
-- **AI Implementation**: Applying machine learning models to enhance system efficiencies.
-- **Leadership in Tech**: Managing projects and leading teams in tech-driven environments.
+- **Robotics Engineer Intern**
+- **AI Research Assistant**
+- **Machine Learning Engineer Intern**
+- **Control Systems Engineer Intern**
+- **Data Analytics**
 
 ## 📫 How to Reach Me
-- **Email**: [your.email@domain.com](mailto:your.email@domain.com)
-- **LinkedIn**: [LinkedIn/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- **Email**: [anqi.gao@mail.utoronto.ca](mailto:your.email@domain.com)
+
 
 ---
 
