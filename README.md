@@ -49,9 +49,29 @@ I'm actively seeking co-op positions where I can contribute and further develop 
 ![Verilog](https://img.shields.io/badge/-Verilog-333?style=flat&logo=verilog)
 ![RISC-V](https://img.shields.io/badge/-RISC--V-333?style=flat&logo=riscv)
 
+### Frameworks & Libraries
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
+![SciPy](https://img.shields.io/badge/-SciPy-333?style=flat&logo=scipy)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib)
+![Hugging_Face](https://img.shields.io/badge/-Hugging%20Face-333?style=flat&logo=huggingface)
+![scikit_learn](https://img.shields.io/badge/-scikit_learn-333?style=flat&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
+![ROS](https://img.shields.io/badge/-ROS-333?style=flat&logo=ros)
 
-- **Frameworks**: ROS, TensorFlow, PyTorch
-- **Tools**: Git, Docker, Jupyter
+### CAD & Design
+![Fusion360](https://img.shields.io/badge/-Fusion360-333?style=flat&logo=autodesk)
+![Ansys](https://img.shields.io/badge/-Ansys-333?style=flat&logo=ansys)
+![ModelSim](https://img.shields.io/badge/-ModelSim-333?style=flat&logo=modelsim)
+![Quartus](https://img.shields.io/badge/-Quartus-333?style=flat&logo=quartus)
+
+### Development Platform
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![VS_Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-333?style=flat&logo=intellij-idea)
+![Jupyter_Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333?style=flat&logo=jupyter)
+![RStudio](https://img.shields.io/badge/-RStudio-333?style=flat&logo=rstudio)
 
 ### 📚 Projects
 Check out my projects below, where I apply cutting-edge technologies to solve complex problems in robotics and AI.
