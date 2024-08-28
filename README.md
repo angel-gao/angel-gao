@@ -40,14 +40,15 @@ I'm actively seeking co-op positions where I can contribute and further develop 
 ## 🛠️ Tools and Technologies
 ### Languages
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Latex](https://img.shields.io/badge/-Latex-333?style=flat&logo=latex)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
+![Verilog](https://img.shields.io/badge/-Verilog-333?style=flat&logo=verilog)
+![RISC-V](https://img.shields.io/badge/-RISC--V-333?style=flat&logo=riscv)
+
 
 - **Frameworks**: ROS, TensorFlow, PyTorch
 - **Tools**: Git, Docker, Jupyter
