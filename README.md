@@ -75,8 +75,4 @@ I'm actively seeking co-op positions where I can contribute and further develop 
 ![Jupyter_Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333?style=flat&logo=jupyter)
 ![RStudio](https://img.shields.io/badge/-RStudio-333?style=flat&logo=rstudio)
 
-### 📚 Projects
-Check out my projects below, where I apply cutting-edge technologies to solve complex problems in robotics and AI.
 
-- **[Project Name]** - Description of what the project does and technologies used.
-- **[Project Name]** - Description of what the project does and technologies used.
