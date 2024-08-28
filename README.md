@@ -13,13 +13,15 @@ I'm currently a third-year student at the **University of Toronto**, majoring in
 ## 🤖 Area of Interest
 - Intelligent Automation
 - Machine Learning Applications in Robotics
-   - fdfd
+   - Reinforcement learning for robot decision-making in a dynamic environment 
+   - Supervised learning for computer vision in robot perception 
 - Human-Robot Interaction
 
 ## 🌱 I’m Currently Learning
-- **ROB311** - Computational Intelligence and Cognitive Robotics
-- **ECE324** - Machine Learning for Engineers
-- **APS445** - Engineering Leadership
+- **AER372 & AER301** - Control Systems & Dynamics
+- **ROB301 & ROB313** - Mathematics for Robotics & Learning from Data
+- **MIE366 & MIE438** - Electronics,  Microprocessors and Embedded Microcontroller
+- **CSC262 & CSC384** - Algorithms, Data Structures, and Computational Intelligence
 
 ## 🚀 Co-op Opportunities
 I'm actively seeking co-op positions where I can contribute and further develop my skills in the following areas:
