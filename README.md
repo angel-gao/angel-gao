@@ -10,7 +10,7 @@ I'm currently a third-year student at the **University of Toronto**, majoring in
 
 ## 🤖 Area of Interest
 - Cutting-edge Machine Learning Research Fields
-- Intelligent Automation
+- Intelligent Automation Process Development
 - Machine Learning Applications in Robotics
    - Reinforcement learning for robot decision-making in a dynamic environment 
    - Supervised learning for computer vision in robot perception
@@ -26,6 +26,7 @@ I'm currently a third-year student at the **University of Toronto**, majoring in
 ## 🚀 Co-op Opportunities
 I'm actively seeking co-op positions where I can contribute and further develop my skills in the following areas:
 - **Robotics Engineer Intern**
+- **Automation Process Development Intern**
 - **AI Research Assistant**
 - **Machine Learning Engineer Intern**
 - **Control Systems Engineer Intern**
