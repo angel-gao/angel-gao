@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Anqi%20%28Angel%29%20Gao&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Robotics%20%C2%B7%20Machine%20Learning%20%C2%B7%20Controls&descAlignY=58&descAlign=50&fontColor=ffffff" alt="Anqi (Angel) Gao: Robotics, Machine Learning, Controls" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=200&section=header&text=Anqi%20%28Angel%29%20Gao&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Robotics%20%C2%B7%20Machine%20Learning%20%C2%B7%20Controls&descAlignY=58&descAlign=50&fontColor=ffffff" alt="Anqi (Angel) Gao: Robotics, Machine Learning, Controls" width="100%">
 </p>
 
 <h1 align="center">Hello, I'm Angel (Anqi) Gao 👋</h1>
@@ -132,5 +132,5 @@ Intelligent systems people can feel in daily life: safer and more efficient tran
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" alt="" width="100%">
 </p>
