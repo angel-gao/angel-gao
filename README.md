@@ -38,7 +38,7 @@ Intelligent systems people can feel in daily life: safer and more efficient tran
 - 🗣️ Those 16 months in Ottawa also made me enthusiastic about French culture, so I'm learning the language.
 - 🤖 Building robots at home. My [Arctos arm](https://github.com/angel-gao/Arctos-Robotic-Arm) took three rounds of 3D-printer tuning, help from other builders on Discord, and some creative assembly order.
 
-## 🎲 Off the clock
+## 🎨 Hobbies and interests
 
 - 📚 Sci-fi I love: *The Three-Body Problem*, *Fahrenheit 451* and *Do Androids Dream of Electric Sheep?*
 - 📯 I still play the French horn, poorly.
