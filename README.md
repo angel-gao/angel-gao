@@ -44,7 +44,6 @@ Intelligent systems people can feel in daily life: safer and more efficient tran
 - 📯 I still play the French horn, poorly.
 - 🤺 Former sabre fencer.
 - 🥁 I've written a few short drum-kit pieces.
-- ❓ Ask me why my robot arm still can't find its way home. Hint: magnets.
 
 ## 🤖 Projects
 
