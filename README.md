@@ -220,8 +220,8 @@ timeline
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-gao&layout=compact&theme=tokyonight&hide_border=true&hide=html,jupyter%20notebook">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-gao&layout=compact&theme=default&hide_border=true&hide=html,jupyter%20notebook" alt="Top languages for angel-gao" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-gao&layout=compact&theme=tokyonight&hide_border=true&hide=html,jupyter%20notebook&disable_animations=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-gao&layout=compact&theme=default&hide_border=true&hide=html,jupyter%20notebook&disable_animations=true" alt="Top languages for angel-gao" height="165">
   </picture>
 </p>
 
