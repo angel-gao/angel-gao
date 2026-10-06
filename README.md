@@ -35,7 +35,7 @@ Intelligent systems people can feel in daily life: safer and more efficient tran
 
 - 🎓 Final year at UofT. My thesis is about lane detection that holds up in Toronto winters, so these days I render fake snow onto clear-weather driving data in Unreal Engine 5.
 - 🏛️ Back from 16 months at NRC in Ottawa, where my supervisor felt more like a friend to argue ideas with than a boss.
-- 🗣️ Learning French. The grammar felt like math; real conversations at full speed did not.
+- 🗣️ Those 16 months in Ottawa also made me enthusiastic about French culture, so I'm learning the language.
 - 🤖 Building robots at home. My [Arctos arm](https://github.com/angel-gao/Arctos-Robotic-Arm) took three rounds of 3D-printer tuning, help from other builders on Discord, and some creative assembly order.
 
 ## 🎲 Off the clock
