@@ -23,9 +23,13 @@
 
 ## 👋 About me
 
-I've always wanted to know how things work. As a kid I broke more than one magnetic transforming toy trying to see how the mechanism fit together, and that curiosity is why I still like work that pays off physically: a robot moving by itself, or a model producing a result I can actually see. It is also why watching AI Warehouse videos of robots walking and climbing stairs made me choose the Robotics major.
+I've been taking things apart for as long as I can remember. As a kid I was obsessed with Bakugan, the little balls that pop open into creatures. One day I had to know how they did it, so I pried one open and found magnets, tiny screws and a coiled spring inside. I never managed to put it back together. I also once collected all six toys in a transforming series just so I could combine them into one giant figure.
 
-I like results I can check, and that is what drew me to math and physics early on: an answer was either right or wrong. Research turned out to be far greyer than I expected, and as a goal-driven person I deal with that by being about 70 % finisher and 30 % verifier. I pick the approach that looks most likely to work, push it all the way through, then check that it really did.
+That curiosity never really went away; it just found bigger toys. I still get a kick out of the moment something physical works, whether it's a robot moving on its own or a model producing a result I can actually see. Sci-fi probably made it worse, since the books I love are full of technology I honestly believe we'll build one day. In the end it was AI Warehouse videos of robots walking and climbing stairs that tipped me toward the Robotics major.
+
+Growing up, I liked math and physics far more than literature, mostly because an answer was either right or wrong. University research has taught me, not always gently, how much of the interesting work lives in the grey zone. My way through it is to be about 70 % finisher and 30 % verifier: I pick the idea that looks most likely to work, see it all the way through, and then double-check that it really did.
+
+If you like robots or sci-fi, say hi. I'm always happy to trade broken-toy stories.
 
 ## 🎯 What I want to work on
 
