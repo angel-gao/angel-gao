@@ -23,9 +23,9 @@
 
 ## 👋 About me
 
-I like work that pays off physically: a robot moving by itself, or a model producing a real result I can see. As a kid I loved magnetic transforming toys and broke a few finding out how the mechanisms worked. I chose the Robotics major after watching AI Warehouse videos of robots walking and climbing stairs.
+I've always wanted to know how things work. As a kid I broke more than one magnetic transforming toy trying to see how the mechanism fit together, and that curiosity is why I still like work that pays off physically: a robot moving by itself, or a model producing a result I can actually see. It is also why watching AI Warehouse videos of robots walking and climbing stairs made me choose the Robotics major.
 
-I grew up liking math and physics because the answers were either right or wrong. Research turned out to have far more grey area than I expected. I'd call myself 70 % finisher and 30 % verifier: I'd rather push a problem that looks like it will work all the way through, then check that it really did.
+I like results I can check, and that is what drew me to math and physics early on: an answer was either right or wrong. Research turned out to be far greyer than I expected, and as a goal-driven person I deal with that by being about 70 % finisher and 30 % verifier. I pick the approach that looks most likely to work, push it all the way through, then check that it really did.
 
 ## 🎯 What I want to work on
 
